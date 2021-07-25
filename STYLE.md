@@ -52,7 +52,7 @@ Here are the “rules” of descriptivist writing, according to me:
    figures, tables, illustrations, formulas, and such, which do not always have
    a meaningful equivalent in spoken English. Otherwise, the only valid excuse
    for the way you write something to be distinct from the way you would speak
-   it is the alleviation of ambiguity.
+   it is to eliminate ambiguity.
 
 If you really want to know what my own rules are, I mostly follow the Chicago
 Manual of Style, with the one exception that I steadfastly refuse to use
@@ -70,14 +70,14 @@ or style rules per se, but affect grammar and style:
    extent this is unavoidable, but one should nonetheless aim for
    non-identifiable style to whatever degree that's possible. All blind paper
    submissions should use American English unless they are specifically
-   submitted to a British conference—not European, British—and singular works
-   should use “we”.
+   submitted to a British, Australian, or New Zealand conference, and singular
+   works should use “we”, never “I”.
 
-2. **Follow mandated style.** Some venues have mandated style guides. More
+2. **Follow mandated style.** Some publishers have mandated style guides. More
    often than not they dictate things like line spacing and typeface, rather
    than writing style, but sometimes they do a bit of both. If you're
-   submitting to a venue with a specifically mandated style guide, obviously
-   you should follow it. Don't break the rules just to be a rebel.
+   submitting to a publisher with a specifically mandated style guide,
+   obviously you should follow it. Don't break the rules just to be a rebel.
 
 Some commonly cited “rules” which specifically *ought to be broken*, because
 they actively hinder clarity for no reason:
