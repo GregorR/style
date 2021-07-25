@@ -134,3 +134,52 @@ they actively hinder clarity for no reason:
    contractions often convey a subtly different connotation than their
    uncontracted form, so banning contractions restricts expressiveness to no
    gain.
+
+Some general guidelines (not rules!) for academic writing in Computer Science,
+with some bias towards programming languages since that is my field:
+
+1. **Separate concerns.** A CS work will often have both an element of design
+   and an element of implementation, or equivalently an element of design and
+   an element of proof. These should be separated as much as is possible.
+   Consider a reader who wishes to reuse your contribution in a context as
+   distinct from yours as it could be. They should be able to distill the
+   useful, generalizable part of your contribution without needing to get
+   bogged down by your particular implementation.
+
+2. **Know your audience.** A paper submitted to a conference on JavaScript does
+   not need to introduce any aspect of JavaScript, but a paper submitted to a
+   journal on programming languages more generally does. Similarly, a paper
+   submitted to a journal on programming languages doesn't need to define
+   compilation, but may need to define Just-in-Time compilation. Give your work
+   a full read, doing your best to take on the perspective of someone who knows
+   nothing about your specific field.
+
+3. **Don't use statistics that don't apply.** A lot of CS papers give
+   confidence intervals for things like benchmark results, but they're
+   meaningless. Confidence intervals are based on an assumption of a normal
+   distribution, and most software performance does not have a normal
+   distribution. Don't use the algebraic mean over the results of different
+   evaluations. Don't give numbers if the reader has no basis for comparison;
+   for instance, saying that your tool successfully analyzed 10,000 lines of
+   code is not instructive if the reader doesn't know the total number of lines
+   of code, or the number that failed.
+
+4. **Avoid forward references.** It hinders readability to refer to a concept
+   that will only be fully described in a later section. Note that a
+   superficial description in the introduction is not sufficient. Sometimes
+   forward references are unavoidable, but you should only allow a forward
+   reference after exhausting all other possible options. It is usually
+   possible to rearrange things to avoid forward references entirely.
+
+5. **Make it clear when you're defining a new term.** Many works italicize new
+   terms, which is a good style to follow, but not mandatory. What's important
+   is to make clear when a term is new, so that a reader immediately knows that
+   they should not be familiar with it, and aren't simply ignorant of it. A
+   term introduced in the introduction of a work should not be considered as
+   already-introduced later in the work. The first introduction of a term
+   within the main body of the work is where the term is actually defined.
+
+6. **More examples.** Use running examples. Use momentary examples. Use
+   examples of specific exceptional cases. Use examples of general cases. Use
+   examples of previous systems to compare them to examples of yours. The right
+   number of examples is “more”.
