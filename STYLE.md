@@ -61,24 +61,6 @@ Punctuation belongs outside the quotation marks unless the punctuation is
 actually part of the quote. But, that's just my own rule, and rules are made to
 be broken.
 
-I have two rules specific to academic writing, which are not actually grammar
-or style rules per se, but affect grammar and style:
-
-1. **Blind means blind.** It is worth following a style guide simply to avoid
-   forming an identifiable style that will effectively unblind your blind
-   submissions. Of course, everyone writes in their own style, so to a certain
-   extent this is unavoidable, but one should nonetheless aim for
-   non-identifiable style to whatever degree that's possible. All blind paper
-   submissions should use American English unless they are specifically
-   submitted to a British, Australian, or New Zealand conference, and singular
-   works should use “we”, never “I”.
-
-2. **Follow mandated style.** Some publishers have mandated style guides. More
-   often than not they dictate things like line spacing and typeface, rather
-   than writing style, but sometimes they do a bit of both. If you're
-   submitting to a publisher with a specifically mandated style guide,
-   obviously you should follow it. Don't break the rules just to be a rebel.
-
 Some commonly cited “rules” which specifically *ought to be broken*, because
 they actively hinder clarity for no reason:
 
@@ -183,3 +165,18 @@ with some bias towards programming languages since that is my field:
    examples of specific exceptional cases. Use examples of general cases. Use
    examples of previous systems to compare them to examples of yours. The right
    number of examples is “more”.
+
+7. **Blind means blind.** It is worth following a style guide simply to avoid
+   forming an identifiable style that will effectively unblind your blind
+   submissions. Of course, everyone writes in their own style, so to a certain
+   extent this is unavoidable, but one should nonetheless aim for
+   non-identifiable style to whatever degree that's possible. All blind paper
+   submissions should use American English unless they are specifically
+   submitted to a British, Australian, or New Zealand conference, and singular
+   works should use “we”, never “I”.
+
+8. **Follow mandated style.** Some publishers have mandated style guides. More
+   often than not they dictate things like line spacing and typeface, rather
+   than writing style, but sometimes they do a bit of both. If you're
+   submitting to a publisher with a specifically mandated style guide,
+   obviously you should follow it. Don't break the rules just to be a rebel.
