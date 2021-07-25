@@ -1,8 +1,13 @@
 # Gregor's Prescription of Descriptivist Style
 
-I am a staunch linguistic descriptivist. As such, I am generally opposed to
-following style guides too precisely; they are to be used as guides, not rules.
-Here are the “rules” of descriptivist writing, according to me:
+![Comic describing the philosophies of linguistics](linguistic-philosophies.png)
+
+(Comic source: https://www.smbc-comics.com/comic/know-your-linguistic-philosophies )
+
+I am a staunch linguistic descriptivist (or, if the above comic is to be
+believed, perhaps I should claim to be a pragmatist). As such, I am generally
+opposed to following style guides too precisely; they are to be used as guides,
+not rules.  Here are the “rules” of descriptivist writing, according to me:
 
 1. **Prescriptivists are bad people.** Common usage is the only valid arbiter
    of correct style. Do you have a copy of Strunk and White's *Elements of
@@ -17,23 +22,32 @@ Here are the “rules” of descriptivist writing, according to me:
 2. **Descriptivism is exactly what it says it is.** Most modern style guides
    try very hard to be descriptive: they describe what is common in English
    usage, and only *prescribe* rules when English usage is inconsistent, such
-   as the distinction between en- and em-dashes, the Oxford comma, etc. Of
-   course, there are American English style guides and British English style
-   guides, which differ because both spelling and usage differ between America
-   and Britain, but both are acceptable forms of English, so choose whichever
-   one suits you. Descriptive style guides, as long as they are honestly so,
-   are fine as *guides*, but are still not *rules*. A good style guide should
-   describe what is usual in English expression, not prescribe what is
-   “correct”, and should change frequently to keep up with changing norms. If a
-   style guide isn't on at least its fifth edition, it is highly suspect.
+   as the distinction between en- and em-dashes, the Oxford comma, etc.
+   Descriptivism is not “everything goes”, it's “usage dictates correctness”.
+   Like every language, English has dialects and registers, and descriptivism
+   integrates that, separately acknowledging British and American, formal and
+   informal, etc., and their differences in common use. As this text relates to
+   academic writing, I'm writing it in formal American English, and so follow
+   the style of that dialect and register.
+
+   A linguistic descriptivist acknowledges that language is alive, and
+   atavism—particularly the fictional atavism advanced in many prescriptivist
+   style guides—is not a valid rationale for stylistic decisions. Descriptive
+   style guides, as long as they are honestly so, are useful as *guides*, but
+   are still not *rules*. A good style guide should describe what is usual in
+   English expression, not prescribe what is “correct”, and should change
+   frequently to keep up with changing norms. If a style guide isn't on at
+   least its fifth edition, it is highly suspect. A style guide which is “set
+   in stone” is invalid.
 
 3. **Clarity is king.** Writing is a form of communication, and the goal of
    most communication should be to convey meaning as clearly as possible.
    Grammar and style aid clarity: if your grammar is poor or inconsistent, then
    it's hard to parse your writing, and if it's hard to parse your writing,
-   then your writing is unclear. But, *grammar and style are subservient to
-   clarity, not superior to it.* If one form is clearer than another, then it
-   is correct, no matter how many rules it breaks.
+   then your writing is unclear. The main reason to follow an established style
+   at all is because clarity is aided by familiarity. But, *grammar and style
+   are subservient to clarity, not superior to it.* If one form is clearer than
+   another, then it is correct, no matter how many rules it breaks.
 
 4. **Consistency is queen.** Whichever rules you follow and whichever rules you
    break, any given document should follow the same rules consistently.
