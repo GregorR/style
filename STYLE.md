@@ -154,12 +154,13 @@ with some bias towards programming languages since that is my field:
    possible to rearrange things to avoid forward references entirely.
 
 5. **Make it clear when you're defining a new term.** Many works italicize new
-   terms, which is a good style to follow, but not mandatory. What's important
-   is to make clear when a term is new, so that a reader immediately knows that
-   they should not be familiar with it, and aren't simply ignorant of it. A
-   term introduced in the introduction of a work should not be considered as
-   already-introduced later in the work. The first introduction of a term
-   within the main body of the work is where the term is actually defined.
+   terms, which is a good style to follow, but it's not mandatory. What's
+   important is to make clear when a term is new, so that a reader immediately
+   knows that they should not be familiar with it, and aren't simply ignorant
+   of it. A term introduced in the introduction of a work should not be
+   considered as already-introduced later in the work. The first introduction
+   of a term within the main body of the work is where the term is actually
+   defined.
 
 6. **More examples.** Use running examples. Use momentary examples. Use
    examples of specific exceptional cases. Use examples of general cases. Use
