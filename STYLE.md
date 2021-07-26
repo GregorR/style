@@ -82,8 +82,9 @@ they actively hinder clarity for no reason:
    that is how you would say it, such as “Charles's Friend”.
 
 2. **~~Whom.~~** Some pronouns have the same form as subjects and objects. Some
-   don't. Nowadays, “who” does. Note that I actually do use “whom” in most
-   circumstances, so I'm a hypocrite.
+   don't. Nowadays, “who” does. “Whomever” is a revolting word which, like any
+   other vulgarity, has no place in polite speech or writing. Note that I
+   actually do use “whom” in most circumstances, so I'm a hypocrite.
 
 3. **~~Less vs. fewer.~~** I have less than three eggs. I have fewer than three
    eggs. Use “fewer” if that's how you would have said it, but don't use it to
