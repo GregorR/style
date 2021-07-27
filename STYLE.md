@@ -79,12 +79,19 @@ Some commonly cited “rules” which specifically *ought to be broken*, because
 they actively hinder clarity for no reason:
 
 1. **~~Never write “s's”.~~** It's fine and correct to use “s's” so long as
-   that is how you would say it, such as “Charles's Friend”.
+   that is how you would say it, such as “Charles's friend”. When not
+   pronounced, “s' ” is correct. Genitive (possessive) plurals are extremely
+   inconsistent in common usage, and prescriptivism is a valid substitute when
+   common usage isn't consistent, so it's “greengrocers' apostrophe”, not
+   “greengrocers's apostrophe”. “Greengrocer's apostrophe” can also be correct,
+   but is just genitive, not plural.
 
 2. **~~Whom.~~** Some pronouns have the same form as subjects and objects. Some
-   don't. Nowadays, “who” does. “Whomever” is a revolting word which, like any
-   other vulgarity, has no place in polite speech or writing. Note that I
-   actually do use “whom” in most circumstances, so I'm a hypocrite.
+   don't. Nowadays, “who” does. Note that I actually do use “whom” in most
+   circumstances, so I'm a hypocrite.
+
+   “Whomever” is a revolting word which, like any other vulgarity, has no place
+   in polite speech or writing.
 
 3. **~~Less vs. fewer.~~** I have less than three eggs. I have fewer than three
    eggs. Use “fewer” if that's how you would have said it, but don't use it to
@@ -125,13 +132,13 @@ they actively hinder clarity for no reason:
 9. **~~Don't use contractions.~~** Use contractions anywhere where you would
    use contractions in formal speech, so long as it doesn't create ambiguity.
    Eschewing contractions makes writing stilted. Some people have the
-   misbegotten opinion that more stilted writing is more formal; the reality is
-   that stilted writing is poor writing, in any context. Stilted writing
-   suggests that its author's grasp of English is poor. Contractions are more
-   natural, and natural writing comes across as confident, not casual.
-   Moreover, contractions often convey a subtly different connotation than
-   their uncontracted form, so banning contractions restricts expressiveness to
-   no gain.
+   misbegotten opinion that stilted writing is more formal; the reality is that
+   stilted writing is poor writing, in any context. Stilted writing suggests
+   that its author's grasp of English is poor. Contractions are more natural,
+   and natural writing comes across as confident, not casual.  Moreover,
+   contractions often convey a subtly different connotation than their
+   uncontracted form, so banning contractions restricts expressiveness to no
+   gain.
 
    Besides, how many prescriptions not to use contractions tell you not to use
    the word “none”? Not one of them. It's atavist drivel.
@@ -155,15 +162,15 @@ with some bias towards programming languages since that is my field:
    a full read, doing your best to take on the perspective of someone who knows
    nothing about your specific field.
 
-3. **Don't use statistics that don't apply.** A lot of CS papers give
-   confidence intervals for things like benchmark results, but they're
-   meaningless. Confidence intervals are based on an assumption of a normal
-   distribution, and most software performance does not have a normal
-   distribution. Don't use the algebraic mean over the results of different
-   evaluations. Don't give numbers if the reader has no basis for comparison;
-   for instance, saying that your tool successfully analyzed 10,000 lines of
-   code is not instructive if the reader doesn't know the total number of lines
-   of code, or the number that failed.
+3. **Don't use bad statistics.** A lot of CS papers give confidence intervals
+   for things like benchmark results, but they're meaningless; confidence
+   intervals are based on an assumption of a normal distribution, and most
+   software performance does not have a normal distribution. Don't use the
+   algebraic mean over the results of different evaluations. Don't give numbers
+   if the reader has no basis for comparison; for instance, saying that your
+   tool successfully analyzed 10,000 lines of code is not instructive if the
+   reader doesn't know the total number of lines of code, or the number that
+   failed.
 
 4. **Avoid forward references.** It hinders readability to refer to a concept
    that will only be fully described in a later section. Note that a
