@@ -60,7 +60,7 @@ not rules.  Here are the “rules” of descriptivist writing, according to me:
    in formal writing. On the other hand, you probably would use “haven't”, or
    any other contraction, in formal speech, and so *should* use contractions in
    formal writing. Writing differs from speech because (a) English spelling is
-   a nightmare from which Anglophones cannot escape, (b) tone and nuance in
+   a nightmare from which anglophones cannot escape, (b) tone and nuance in
    speech must be clumsily represented by punctuation in writing, and (c), in a
    written work, one has the ability to use chapters, sections, references,
    figures, tables, illustrations, formulas, and such, which do not always have
