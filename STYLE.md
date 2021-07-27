@@ -126,8 +126,8 @@ they actively hinder clarity for no reason:
    use contractions in formal speech, so long as it doesn't create ambiguity.
    Eschewing contractions makes writing stilted. Some people have the
    misbegotten opinion that more stilted writing is more formal; the reality is
-   that stilted writing is poor writing, in any context. It makes the author
-   look like they don't have a strong grasp of English. Contractions are more
+   that stilted writing is poor writing, in any context. Stilted writing
+   suggests that its author's grasp of English is poor. Contractions are more
    natural, and natural writing comes across as confident, not casual.
    Moreover, contractions often convey a subtly different connotation than
    their uncontracted form, so banning contractions restricts expressiveness to
