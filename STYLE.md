@@ -124,13 +124,17 @@ they actively hinder clarity for no reason:
 
 9. **~~Don't use contractions.~~** Use contractions anywhere where you would
    use contractions in formal speech, so long as it doesn't create ambiguity.
-   People have the opinion that eschewing contractions makes language more
-   formal, but its actual effect is to make the author look like they don't
-   understand how to use English properly. Contractions are more natural, and
-   natural writing comes across as confident, not casual. Moreover,
-   contractions often convey a subtly different connotation than their
-   uncontracted form, so banning contractions restricts expressiveness to no
-   gain.
+   Eschewing contractions makes writing stilted. Some people have the
+   misbegotten opinion that more stilted writing is more formal; the reality is
+   that stilted writing is poor writing, in any context. It makes the author
+   look like they don't have a strong grasp of English. Contractions are more
+   natural, and natural writing comes across as confident, not casual.
+   Moreover, contractions often convey a subtly different connotation than
+   their uncontracted form, so banning contractions restricts expressiveness to
+   no gain.
+
+   Besides, how many prescriptions not to use contractions tell you not to use
+   the word “none”? Not one of them. It's atavist drivel.
 
 Some general guidelines (not rules!) for academic writing in Computer Science,
 with some bias towards programming languages since that is my field:
