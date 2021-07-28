@@ -72,4 +72,8 @@ rule is not, however, enforced by conference or journal reviewers, as evidenced
 by the fact that contractions regularly appear in conference and journal
 articles.
 
+Incidentally, if you're going to claim that my own rule 2 suggests that you
+should avoid contractions because it's common to avoid contractions in formal
+writing, refer back to my rule 5.
+
 ([Return to the main document](STYLE.md))

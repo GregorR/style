@@ -135,8 +135,8 @@ they actively hinder clarity for no reason:
 
 9. **~~Don't use contractions.~~** Use contractions anywhere where you would
    use contractions in formal speech, so long as it doesn't create ambiguity.
-   I have so much more to say on contractions, I've moved it to [a separate
-   file](CONTRACTIONS.md).
+   If you're unconvinced, I explain in much greater depth in [a separate
+   document](CONTRACTIONS.md).
 
 
 Some general guidelines (not rules!) for academic writing in Computer Science,
