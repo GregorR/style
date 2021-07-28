@@ -135,35 +135,9 @@ they actively hinder clarity for no reason:
 
 9. **~~Don't use contractions.~~** Use contractions anywhere where you would
    use contractions in formal speech, so long as it doesn't create ambiguity.
-   Eschewing contractions makes writing stilted. Some people have the
-   misbegotten opinion that stilted writing is more formal; the reality is that
-   stilted writing is poor writing, in any context. Stilted writing suggests
-   that its author's grasp of English is poor. Contractions are more natural,
-   and natural writing comes across as confident, not casual. Moreover,
-   contractions often convey a subtly different connotation than their
-   uncontracted form, so banning contractions restricts expressiveness to no
-   gain.
+   I have so much more to say on contractions, I've moved it to [a separate
+   file](CONTRACTIONS.md).
 
-   Besides, how many proscriptions of contractions tell you not to use the word
-   “none”? Not one of them. They are ignorant of the very thing they proscribe.
-
-   What's very interesting about the banishment of contractions is that it
-   doesn't appear to have any basis in anything. I've been unable to find who
-   first invented and promulgated this terrible style. No general style guide
-   has a proscription of contractions. Even Strunk and White doesn't proscribe
-   contractions—I used to misremember that Strunk and White was the origin of
-   this proscription, but it's not. The Chicago Manual of Style itself doesn't
-   mention contractions, but its commentary encourages contractions. The same
-   is true of MLA. APA doesn't mention contractions; it doesn't mention much,
-   since it mainly focuses on formatting, but it does mention some elements of
-   writing style that are particular to academic works, and contractions are
-   not among them. The Oxford Style Guide doesn't mention contractions except
-   in describing how to use them. The US's Plain Writing Act encourages
-   contractions in American legal communication, and legal writing experts
-   encourage contractions in all legal writing. Presumably, someone, at some
-   point, decided based on their own stuffiness that apostrophes make writing
-   look lazy, and their bad advice continues to be spread thoughtlessly to this
-   day.
 
 Some general guidelines (not rules!) for academic writing in Computer Science,
 with some bias towards programming languages since that is my field:
