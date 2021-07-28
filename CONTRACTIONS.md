@@ -55,13 +55,13 @@ arise from these two forms is actually *eliminated* by using the contraction,
 making the meaning clearer. The same is true of the (apostrophe-free)
 contraction “gonna”, which is only used as the auxiliary to introduce future
 tense: “I'm gonna go to the store” is correct in informal speech, but “I'm
-gonna the store” is not, eliminating an ambiguity. Of course, “gonna” is slang,
-and so “common usage is the only valid arbiter of style” demands its exclusion
-in formal settings; the point is that contractions are often *not* lazy, but in
-fact improve the clarity of language through disambiguation. Although common
-speakers don't understand the rules of grammar in any depth, common people
-nonetheless settle instinctively on sensible grammar rules, which is why we
-have grammar in the first place.
+gonna the store” is not, eliminating an ambiguity. Of course, “gonna” is
+considered slang, and so “common usage is the only valid arbiter of style”
+demands its exclusion in formal settings; the point is that contractions are
+often *not* lazy, but in fact improve the clarity of language through
+disambiguation. Although common speakers don't understand the rules of grammar
+in any depth, common people nonetheless settle instinctively on sensible
+grammar rules, which is why we have grammar in the first place.
 
 There is one good reason to eliminate contractions from academic writing in
 certain circumstances: academic writing is reviewed, and some reviewers are as
