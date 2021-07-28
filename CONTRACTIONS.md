@@ -35,15 +35,15 @@ this day.
 
 How many proscriptions of contractions tell you not to use the word “none”? Not
 one of them. Hundreds of words in English are contractions which no one cares
-to ban: none, never, neither, altogether, already, alright, albeit, and beware,
-to name eight which predate the advent of the apostrophe; smog, modem, and
-codec, to name three which follow it. Proscriptions of contractions are
-ignorant of the very thing they proscribe, only banning contractions which
-happen to contain apostrophes. Even if we rewrite the rule as “don't use
-contractions that contain apostrophes”, there's a flaw in that proscription
-too, since the genitive (possessive) form, “ 's”, arose as a contraction as
-well. All apostrophes are contractions, but not all contractions use
-apostrophes.
+to ban: none, never, neither, altogether, already, alright, albeit, also,
+always, and beware, to name ten which predate the advent of the apostrophe;
+ampersand, cosine, smog, modem, and codec, to name five which follow it.
+Proscriptions of contractions are ignorant of the very thing they proscribe,
+only banning contractions which happen to contain apostrophes. Even if we
+rewrite the rule as “don't use contractions that contain apostrophes”, there's
+a flaw in that proscription too, since the genitive (possessive) form, “ 's”,
+arose as a contraction as well. All apostrophes are contractions, but not all
+contractions use apostrophes.
 
 Some contractions are positive, useful advances in language, as they eliminate
 ambiguity. The verb “to have” typically indicates possession, but is also used
