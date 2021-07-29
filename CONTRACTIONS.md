@@ -35,10 +35,10 @@ contractions comes from. First, English law prior to the 1700's had developed
 so-called “Court-Hand”, rife with abbreviations of all sorts, and this was then
 outlawed because the resulting laws were “more difficult to read than Latin
 records of preceding ages” ([Hendrickson
-1971](https://doi.org/10.2307/356528)). Second, Jonathan Swift, perhaps
-English's first prescriptivist, vocally abhored contractions of all kinds, and
-wished “that some Method should be thought on for ascertaining and fixing our
-Language for ever” ([Bishop
+1971](https://doi.org/10.2307/356528)). Second, Jonathan Swift (or as I call
+him, J'ift) vocally abhored contractions of all kinds, and was possibly
+English's first prescriptivist, wishing “that some Method should be thought on
+for ascertaining and fixing our Language for ever” ([Bishop
 1998](https://core.ac.uk/download/pdf/153775779.pdf)). Legal writing is not a
 wise place to look for rules of writing, as legal writing is nearly universally
 acknowledged as inscrutable. And, while Swift is widely known as a great
