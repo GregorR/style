@@ -36,7 +36,7 @@ so-called “Court-Hand”, rife with abbreviations of all sorts, and this was t
 outlawed because the resulting laws were “more difficult to read than Latin
 records of preceding ages” ([Hendrickson
 1971](https://doi.org/10.2307/356528)). Second, Jonathan Swift (or as I call
-him, J'ift) vocally abhored contractions of all kinds, and was possibly
+him, J'ift) vocally abhorred contractions of all kinds, and was possibly
 English's first prescriptivist, wishing “that some Method should be thought on
 for ascertaining and fixing our Language for ever” ([Bishop
 1998](https://core.ac.uk/download/pdf/153775779.pdf)). Legal writing is not a
