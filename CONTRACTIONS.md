@@ -42,26 +42,28 @@ Proscriptions of contractions are ignorant of the very thing they proscribe,
 only banning contractions which happen to contain apostrophes. Even if we
 rewrite the rule as “don't use contractions that contain apostrophes”, there's
 a flaw in that proscription too, since the genitive (possessive) form, “ 's”,
-arose as a contraction as well. All apostrophes are contractions, but not all
+arose as a contraction as well. All apostrophes are contractions, and not all
 contractions use apostrophes.
 
 Some contractions are positive, useful advances in language, as they eliminate
-ambiguity. The verb “to have” typically indicates possession, but is also used
+ambiguity. The verb “have” typically indicates possession, but is also used
 as an auxiliary to introduce the past perfect, as in “I have eaten” or,
 preferably, “I've eaten”. Historically, this contraction was allowed to take
 either meaning, but in modern usage, it always indicates the auxiliary: “I've
 eaten” is right, but “I've two brothers” is wrong. The ambiguity which can
 arise from these two forms is actually *eliminated* by using the contraction,
-making the meaning clearer. The same is true of the (apostrophe-free)
-contraction “gonna”, which is only used as the auxiliary to introduce future
-tense: “I'm gonna go to the store” is correct in informal speech, but “I'm
-gonna the store” is not, eliminating an ambiguity. Of course, “gonna” is
-considered slang, and so “common usage is the only valid arbiter of style”
-demands its exclusion in formal settings; the point is that contractions are
-often *not* lazy, but in fact improve the clarity of language through
-disambiguation. Although common speakers don't understand the rules of grammar
-in any depth, common people nonetheless settle instinctively on sensible
-grammar rules, which is why we have grammar in the first place.
+making the meaning clearer. The same is true of “will”, albeit the standard
+verb is rare: “I'll go to the store” is right, “I'll you to go to the store” is
+meaningless. The same is also true of the (apostrophe-free) contraction
+“gonna”, which is only used as the auxiliary to introduce future tense: “I'm
+gonna go to the store” is correct in informal speech, but “I'm gonna the store”
+is not, eliminating an ambiguity. Of course, “gonna” is considered slang, and
+so “common usage is the only valid arbiter of style” demands its exclusion in
+formal settings; the point is that contractions are often *not* lazy, but in
+fact improve the clarity of language through disambiguation. Although common
+speakers don't understand the rules of grammar in any depth, common people
+nonetheless settle instinctively on sensible grammar rules, which is why we
+have grammar in the first place.
 
 There is one good reason to eliminate contractions from academic writing in
 certain circumstances: academic writing is reviewed, and some reviewers are as
