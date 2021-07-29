@@ -76,4 +76,9 @@ Incidentally, if you're going to claim that my own rule 2 suggests that you
 should avoid contractions because it's common to avoid contractions in formal
 writing, refer back to my rule 5.
 
+*“Now repeat offter me the anti-contraction oath: I will not ever use
+contractions; I am going to allow not one to pass my lips. I all so will not
+write them, and not either will I tolerate them from others, all be it this
+will hand in cap any one from under standing my writing.”*
+
 ([Return to the main document](STYLE.md))
