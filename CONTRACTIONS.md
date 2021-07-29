@@ -48,7 +48,7 @@ contractions use apostrophes.
 Some contractions are positive, useful advances in language, as they eliminate
 ambiguity. The verb “have” typically indicates possession, but is also used as
 an auxiliary to introduce the past perfect, as in “I have gone” or, preferably,
-“I've gone”. Historically, this contraction was allowed to take either meaning,
+“I've gone”. Historically, the contraction was allowed to take either meaning,
 but in modern usage, it always indicates the auxiliary: “I've gone” is right,
 but “I've two brothers” is wrong. The ambiguity which can arise from these two
 forms is actually *eliminated* by using the contraction, making the meaning
