@@ -15,23 +15,37 @@ to no gain. Note that, for this reason, it's equally daft to demand that
 contractions be used anywhere where contraction is possible. Like any word
 choice, the choice to use or not use a contraction should be made thoughtfully.
 
-What's very interesting about the banishment of contractions is that it
-doesn't appear to have any basis in anything. I've been unable to find who
-first invented and promulgated this terrible style guideline. No general style
-guide has a proscription of contractions. Even Strunk and White doesn't
-proscribe contractions—I used to misremember that Strunk and White was the
-origin of this proscription, but it's not. The Chicago Manual of Style itself
-doesn't mention contractions, but its commentary encourages contractions. The
-same is true of MLA. APA doesn't mention contractions; it doesn't mention much,
-since it mainly focuses on formatting, but it does mention some elements of
-writing style that are particular to academic works, and contractions are not
-among them. The Oxford Style Guide doesn't mention contractions except in
-describing how to use them. The US's Plain Writing Act encourages contractions
-in American legal communication, and legal writing experts encourage
-contractions in all legal writing. Presumably, someone, at some point, used
-their own stuffiness and poor writing ability to conclude that apostrophes make
-writing look lazy, and their bad advice continues to be spread thoughtlessly to
-this day.
+No general style guide has a proscription of contractions. Even Strunk and
+White doesn't proscribe contractions—I used to misremember that Strunk and
+White was the origin of this proscription, but it's not. The Chicago Manual of
+Style itself doesn't mention contractions, but its commentary encourages
+contractions. The same is true of MLA. APA doesn't mention contractions; it
+doesn't mention much, since it mainly focuses on formatting, but it does
+mention some elements of writing style that are particular to academic works,
+and contractions are not among them. The Oxford Style Guide doesn't mention
+contractions except in describing how to use them. The US's Plain Writing Act
+encourages contractions in American legal communication, and legal writing
+experts encourage contractions in all legal writing.
+
+After some research (thanks to [English
+StackExchange](https://english.stackexchange.com/) user [Stuart
+F](https://english.stackexchange.com/users/319429/stuart-f) for nudging me in
+the right direction), I have some idea of where the proscription on
+contractions comes from. First, English law prior to the 1700's had developed
+so-called “Court-Hand”, rife with abbreviations of all sorts, and this was then
+outlawed because the resulting laws were “more difficult to read than Latin
+records of preceding ages” ([Hendrickson
+1971](https://doi.org/10.2307/356528)). Second, Jonathan Swift, perhaps
+English's first prescriptivist, vocally abhored contractions of all kinds, and
+wished “that some Method should be thought on for ascertaining and fixing our
+Language for ever” ([Bishop
+1998](https://core.ac.uk/download/pdf/153775779.pdf)). Legal writing is not a
+wise place to look for rules of writing, as legal writing is nearly universally
+acknowledged as inscrutable. And, while Swift is widely known as a great
+author, he was not and didn't claim to be an expert on grammar, usage, or
+etymology. *Gulliver's Travels* is written without obvious contractions, even
+in dialogue, and any style guide on fiction writing will tell you that it's not
+only poor style but incorrect to write dialogue in such a stilted way.
 
 How many proscriptions of contractions tell you not to use the word “none”? Not
 one of them. Hundreds of words in English are contractions which no one cares
