@@ -46,17 +46,16 @@ arose as a contraction as well. All apostrophes are contractions, and not all
 contractions use apostrophes.
 
 Some contractions are positive, useful advances in language, as they eliminate
-ambiguity. The verb “have” typically indicates possession, but is also used
-as an auxiliary to introduce the past perfect, as in “I have eaten” or,
-preferably, “I've eaten”. Historically, this contraction was allowed to take
-either meaning, but in modern usage, it always indicates the auxiliary: “I've
-eaten” is right, but “I've two brothers” is wrong. The ambiguity which can
-arise from these two forms is actually *eliminated* by using the contraction,
-making the meaning clearer. The same is true of “will”, albeit the standard
-verb is rare: “I'll go to the store” is right, but “I'll you to go to the
-store” is meaningless. The same is also true of the (apostrophe-free)
-contraction “gonna”, which is only used as the auxiliary to introduce future
-tense: “I'm gonna go to the store” is correct in informal speech, but “I'm
+ambiguity. The verb “have” typically indicates possession, but is also used as
+an auxiliary to introduce the past perfect, as in “I have gone” or, preferably,
+“I've gone”. Historically, this contraction was allowed to take either meaning,
+but in modern usage, it always indicates the auxiliary: “I've gone” is right,
+but “I've two brothers” is wrong. The ambiguity which can arise from these two
+forms is actually *eliminated* by using the contraction, making the meaning
+clearer. The same is true of “will”, albeit the standard verb is rare: “I'll
+go” is right, but “I'll you to go” is meaningless. The same is also true of the
+(apostrophe-free) contraction “gonna”, which is only used as the auxiliary to
+introduce future tense: “I'm gonna go” is correct in informal speech, but “I'm
 gonna the store” is not, eliminating an ambiguity. Of course, “gonna” is
 considered slang, and so “common usage is the only valid arbiter of style”
 demands its exclusion in formal settings; the point is that contractions are
