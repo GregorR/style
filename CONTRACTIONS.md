@@ -42,7 +42,7 @@ Language for ever” ([Bishop
 1998](https://core.ac.uk/download/pdf/153775779.pdf)). Legal writing is not a
 wise place to look for rules of writing, as legal writing is nearly universally
 acknowledged as inscrutable. And, while Swift is widely known as a great
-author, he was not and didn't claim to be an expert on grammar, usage, or
+author, he was not and did not claim to be an expert on grammar, usage, or
 etymology, and his justification for his disdain for contractions amounts to
 little more than sneering at the lower classes.
 
