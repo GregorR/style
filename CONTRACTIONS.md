@@ -43,9 +43,8 @@ Language for ever” ([Bishop
 wise place to look for rules of writing, as legal writing is nearly universally
 acknowledged as inscrutable. And, while Swift is widely known as a great
 author, he was not and didn't claim to be an expert on grammar, usage, or
-etymology. *Gulliver's Travels* is written without obvious contractions, even
-in dialogue, and any style guide on fiction writing will tell you that it's not
-only poor style but incorrect to write dialogue in such a stilted way.
+etymology, and his justification for his disdain for contractions amounts to
+little more than sneering at the lower classes.
 
 How many proscriptions of contractions tell you not to use the word “none”? Not
 one of them. Hundreds of words in English are contractions which no one cares
