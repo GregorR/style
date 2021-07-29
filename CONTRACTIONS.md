@@ -53,17 +53,17 @@ either meaning, but in modern usage, it always indicates the auxiliary: “I've
 eaten” is right, but “I've two brothers” is wrong. The ambiguity which can
 arise from these two forms is actually *eliminated* by using the contraction,
 making the meaning clearer. The same is true of “will”, albeit the standard
-verb is rare: “I'll go to the store” is right, “I'll you to go to the store” is
-meaningless. The same is also true of the (apostrophe-free) contraction
-“gonna”, which is only used as the auxiliary to introduce future tense: “I'm
-gonna go to the store” is correct in informal speech, but “I'm gonna the store”
-is not, eliminating an ambiguity. Of course, “gonna” is considered slang, and
-so “common usage is the only valid arbiter of style” demands its exclusion in
-formal settings; the point is that contractions are often *not* lazy, but in
-fact improve the clarity of language through disambiguation. Although common
-speakers don't understand the rules of grammar in any depth, common people
-nonetheless settle instinctively on sensible grammar rules, which is why we
-have grammar in the first place.
+verb is rare: “I'll go to the store” is right, but “I'll you to go to the
+store” is meaningless. The same is also true of the (apostrophe-free)
+contraction “gonna”, which is only used as the auxiliary to introduce future
+tense: “I'm gonna go to the store” is correct in informal speech, but “I'm
+gonna the store” is not, eliminating an ambiguity. Of course, “gonna” is
+considered slang, and so “common usage is the only valid arbiter of style”
+demands its exclusion in formal settings; the point is that contractions are
+often *not* lazy, but in fact improve the clarity of language through
+disambiguation. Although common speakers don't understand the rules of grammar
+in any depth, common people nonetheless settle instinctively on sensible
+grammar rules, which is why we have grammar in the first place.
 
 There is one good reason to eliminate contractions from academic writing in
 certain circumstances: academic writing is reviewed, and some reviewers are as
