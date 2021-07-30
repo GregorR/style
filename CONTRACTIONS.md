@@ -49,9 +49,9 @@ contractions amounts to little more than sneering at the lower classes.
 
 How many proscriptions of contractions tell you not to use the word “none”? Not
 one of them. Hundreds of words in English are contractions which no one cares
-to ban: none, never, neither, altogether, already, alright, albeit, also,
-always, and beware, to name ten which predate the advent of the apostrophe;
-ampersand, cosine, smog, modem, codec, and pixel, to name six which follow it.
+to ban: none, never, neither, altogether, already, albeit, also, always, and
+beware, to name nine which predate the advent of the apostrophe; ampersand,
+cosine, alright, smog, modem, codec, and pixel, to name seven which follow it.
 Proscriptions of contractions are ignorant of the very thing they proscribe,
 only banning contractions which happen to contain apostrophes. Even if we
 rewrite the rule as “don't use contractions that contain apostrophes”, there's
