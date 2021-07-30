@@ -36,9 +36,9 @@ developed so-called “court hand”, rife with abbreviations of all sorts (“X
 for “Christian”), and this was outlawed in 1730 (4 Geo II. c. 26) because the
 resulting laws were “more difficult to read than Latin records of preceding
 ages” ([Hendrickson 1971](https://doi.org/10.2307/356528)). Second, Jonathan
-Swift (or as I call him, J'ift) vocally abhorred contractions of all kinds, and
-was possibly English's first prescriptivist, wishing “that some Method should
-be thought on for ascertaining and fixing our Language for ever” ([Bishop
+Swift (or as I call him, J'ift) abhorred contractions of all kinds, and was
+possibly English's first prescriptivist, wishing “that some Method should be
+thought on for ascertaining and fixing our Language for ever” ([Bishop
 1998](https://core.ac.uk/download/pdf/153775779.pdf)). Legal writing is not a
 wise place to look for rules of writing, as legal writing is nearly universally
 acknowledged as inscrutable; besides, the law was targeted at abbreviations,
