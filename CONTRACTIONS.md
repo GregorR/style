@@ -42,10 +42,10 @@ thought on for ascertaining and fixing our Language for ever” ([Bishop
 1998](https://core.ac.uk/download/pdf/153775779.pdf)). Legal writing is not a
 wise place to look for rules of writing, as legal writing is nearly universally
 acknowledged as inscrutable; besides, the law was targeted at abbreviations,
-and contractions were just an unfortunate extraneous victim. And, while Swift
-is widely known as a great author, he was not and did not claim to be an expert
-on grammar, usage, or etymology, and his justification for his disdain for
-contractions amounts to little more than sneering at the lower classes.
+not contractions in particular. And, while Swift is widely known as a great
+author, he was not and did not claim to be an expert on grammar, usage, or
+etymology, and his justification for his disdain for contractions amounts to
+little more than sneering at the lower classes.
 
 How many proscriptions of contractions tell you not to use the word “none”? Not
 one of them. Hundreds of words in English are contractions which no one cares
