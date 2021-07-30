@@ -32,19 +32,20 @@ StackExchange](https://english.stackexchange.com/) user [Stuart
 F](https://english.stackexchange.com/users/319429/stuart-f) for nudging me in
 the right direction), I have some idea of where the proscription on
 contractions might come from. First, English law prior to the 1700's had
-developed so-called “Court-Hand”, rife with abbreviations of all sorts, and
-this was then outlawed because the resulting laws were “more difficult to read
-than Latin records of preceding ages” ([Hendrickson
-1971](https://doi.org/10.2307/356528)). Second, Jonathan Swift (or as I call
-him, J'ift) vocally abhorred contractions of all kinds, and was possibly
-English's first prescriptivist, wishing “that some Method should be thought on
-for ascertaining and fixing our Language for ever” ([Bishop
+developed so-called “court hand”, rife with abbreviations of all sorts (“Xn”
+for “Christian”), and this was outlawed in 1730 (4 Geo II. c. 26) because the
+resulting laws were “more difficult to read than Latin records of preceding
+ages” ([Hendrickson 1971](https://doi.org/10.2307/356528)). Second, Jonathan
+Swift (or as I call him, J'ift) vocally abhorred contractions of all kinds, and
+was possibly English's first prescriptivist, wishing “that some Method should
+be thought on for ascertaining and fixing our Language for ever” ([Bishop
 1998](https://core.ac.uk/download/pdf/153775779.pdf)). Legal writing is not a
 wise place to look for rules of writing, as legal writing is nearly universally
-acknowledged as inscrutable. And, while Swift is widely known as a great
-author, he was not and did not claim to be an expert on grammar, usage, or
-etymology, and his justification for his disdain for contractions amounts to
-little more than sneering at the lower classes.
+acknowledged as inscrutable; besides, the law was targeted at abbreviations,
+and contractions were just an unfortunate extraneous victim. And, while Swift
+is widely known as a great author, he was not and did not claim to be an expert
+on grammar, usage, or etymology, and his justification for his disdain for
+contractions amounts to little more than sneering at the lower classes.
 
 How many proscriptions of contractions tell you not to use the word “none”? Not
 one of them. Hundreds of words in English are contractions which no one cares
