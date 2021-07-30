@@ -31,10 +31,10 @@ After some research (thanks to [English
 StackExchange](https://english.stackexchange.com/) user [Stuart
 F](https://english.stackexchange.com/users/319429/stuart-f) for nudging me in
 the right direction), I have some idea of where the proscription on
-contractions comes from. First, English law prior to the 1700's had developed
-so-called “Court-Hand”, rife with abbreviations of all sorts, and this was then
-outlawed because the resulting laws were “more difficult to read than Latin
-records of preceding ages” ([Hendrickson
+contractions might come from. First, English law prior to the 1700's had
+developed so-called “Court-Hand”, rife with abbreviations of all sorts, and
+this was then outlawed because the resulting laws were “more difficult to read
+than Latin records of preceding ages” ([Hendrickson
 1971](https://doi.org/10.2307/356528)). Second, Jonathan Swift (or as I call
 him, J'ift) vocally abhorred contractions of all kinds, and was possibly
 English's first prescriptivist, wishing “that some Method should be thought on
