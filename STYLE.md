@@ -105,7 +105,7 @@ they actively hinder clarity for no reason:
 
 4. **~~Active voice.~~** What style guide authors are, I assume, *trying* to
    convey in banishing the passive voice is that one should not “bury the
-   lead”. In a CS paper, the form “the benchmarks were run on an Intel
+   lede”. In a CS paper, the form “the benchmarks were run on an Intel
    workstation” is correct, even though it is the passive form: the benchmarks
    are the critical detail here, and the passive formation is simply because of
    how the transitive verb “run” works. Rewriting it to the active “I/we ran
@@ -115,7 +115,7 @@ they actively hinder clarity for no reason:
    because who implemented the benchmarks actually is important. Don't form
    your sentence in such a way that an important actor is elided; sometimes
    that means not using the passive form, but the sensible rule is not to bury
-   the lead.
+   the lede.
 
 5. **~~Tense only for time.~~** In an academic research paper, the proper time of
    every aspect of the paper is “now”, so notionally, every reference within
