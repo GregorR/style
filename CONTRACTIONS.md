@@ -149,10 +149,10 @@ created for it. This is some of the more common ones.
   form, so using contractions thoughtfully is opposed to laziness.
 
 - **~~Contractions are ambiguous.~~** Some contractions certainly *are*
-  ambiguous, and should be avoided. Most not only aren't ambiguous, but
-  *alleviate* ambiguity: we only contract the auxiliary form of “have”, “will”,
-  and other auxiliary verbs, so the ambiguity between their auxiliary and
-  non-auxiliary forms is removed by using contractions.
+  ambiguous, and should be avoided. Most contractions aren't ambiguous, and
+  some *alleviate* ambiguity: we only contract the auxiliary form of “have”,
+  “will”, and other auxiliary verbs, so the ambiguity between their auxiliary
+  and non-auxiliary forms is removed by using contractions.
 
 - **~~Contractions are conversational.~~** Formal writing should not be too
   conversational, but “too” is a key word here. “Formal” and “conversational”
