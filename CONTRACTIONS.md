@@ -15,6 +15,17 @@ to no gain. Note that, for this reason, it's equally daft to demand that
 contractions be used anywhere where contraction is possible. Like any word
 choice, the choice to use or not use a contraction should be made thoughtfully.
 
+The proscription of contractions is, in essence, a myth. Of course, as an
+element of style, rather than fact, it can't be “untrue”, but it is baseless.
+It is an idea that a writing instructor—probably a writing instructor whose
+expertise was in a topic other than writing—may have told you at some point,
+but they told you so because an equally ill-informed writing instructor told
+them so. There are many such myths that form part of common knowledge, but
+aren't actually true: the primary colors aren't red, yellow, and blue; the
+tongue map isn't real, and all taste buds are general; we use far more than 10%
+of our brain, both momentarily and in general; and, contractions are not
+informal.
+
 No general style guide has a proscription of contractions. Even Strunk and
 White doesn't proscribe contractions—I used to misremember that Strunk and
 White was the origin of this proscription, but it's not. The Chicago Manual of
@@ -95,5 +106,68 @@ writing, refer back to my rule 5.
 contractions; I am going to allow not one to pass my lips. I all so will not
 write them, and not either will I tolerate them from others, all be it this
 will hand in cap any one from under standing my writing.”*
+
+
+## Counterarguments to Common Arguments for the Proscription
+
+The hallucinated proscription of contractions in formal writing has been part
+of public consciousness for so long, a catalogue of fictitious reasons has been
+created for it. This is some of the more common ones.
+
+- **~~The style guides say so.~~** This one is unfortunately promulgated by
+  “cheat sheets” for style guides, which are never created by the style guides'
+  authors, or even lexicographers. None of the APA, MLA, CMS, Strunk & White,
+  or Fowler style guides proscribe contractions. Read the actual style guide.
+
+- **~~It's a well-established rule.~~** No, it's not. If it were, it would be
+  in the style guides (see above). It's a well-*known* rule, but so is the
+  tongue map (which is nonsense).
+
+- **~~Contractions are from speech.~~** This argument is invalid for several
+  reasons. First of all, it's irrelevant: English is not a logographic
+  language, so writing is always based on speech, and there are many
+  contractions which undoubtedly arose in speech that we're happy to use in
+  formal writing, such as “never” and “ampersand”. Second, [it's not even
+  true](https://doi.org/10.2307/356528). While undoubtedly *some* contractions
+  arose first in speech, contraction in writing (shorthand) has just as long a
+  history, and the evidence suggests that many apostrophe contractions arose in
+  writing, *not* speech. Contractions are not “eye dialect”, they're a standard
+  part of the language.
+
+- **~~Contractions are shorthand.~~** This argument is invalid for largely the
+  same reasons as the last. It's irrelevant, as there's plenty of shorthand
+  we're willing to use (“Dr.”, “etc.”), and it's untrue, because when shorthand
+  starts being said as it's written, it ceases to be shorthand.
+
+- **~~Contractions are informal.~~** Begging the question. I say contractions
+  are formal; you say contractions are informal. I've offered a mountain of
+  evidence here that they're formal; where is your evidence that they aren't?
+
+- **~~Contractions are lazy.~~** Restricting your word choice is lazy;
+  expanding your word choice requires thought in choosing your words.
+  Contractions can convey subtly different meaning than their uncontracted
+  form, so using contractions thoughtfully is opposed to laziness.
+
+- **~~Contractions are ambiguous.~~** Some contractions certainly *are*
+  ambiguous, and should be avoided. Most not only aren't ambiguous, but
+  *alleviate* ambiguity: we only contract the auxiliary form of “have”, “will”,
+  and other auxiliary verbs, so the ambiguity between their auxiliary and
+  non-auxiliary forms is removed by using contractions.
+
+- **~~Contractions are conversational.~~** Formal writing should not be too
+  conversational, but “too” is a key word here. “Formal” and “conversational”
+  are not antonyms, and “formal” and “stilted” are certainly not synonyms.
+  Formal writing should be precise, unambiguous, and consistent with the formal
+  register of speech; contractions are not imprecise, not ambiguous, and
+  standard in formal speech.
+
+- **~~Contractions can confuse foreign readers.~~** All aspects of a language
+  can confuse foreign readers, and contractions are not somehow uniquely
+  qualified to do so. Besides, as contractions are [morphologically
+  distinct](https://doi.org/10.2307/413900) from their uncontracted form—i.e.,
+  they do not always have the same meaning as their uncontracted form—a
+  language learner who hasn't learned contractions is ill-equipped to interact
+  with English on a formal level.
+
 
 ([Return to the main document](STYLE.md))
