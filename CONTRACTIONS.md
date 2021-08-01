@@ -36,7 +36,10 @@ mention some elements of writing style that are particular to academic works,
 and contractions are not among them. The Oxford Style Guide doesn't mention
 contractions except in describing how to use them. The US's Plain Writing Act
 encourages contractions in American legal communication, and legal writing
-experts encourage contractions in all legal writing.
+experts encourage contractions in all legal writing. Fowler comes the closest,
+but even it simply reports what is undoubtedly true: contractions are rare in
+formal writing, but becoming more common. It doesn't claim that contractions
+are informal or discourage their use in any context.
 
 After some research (thanks to [English
 StackExchange](https://english.stackexchange.com/) user [Stuart
