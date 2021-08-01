@@ -95,11 +95,11 @@ grammar rules, which is why we have grammar in the first place.
 There is one good reason to eliminate contractions from academic writing in
 certain circumstances: academic writing is reviewed, and some reviewers are as
 puritanical as they are ill-informed. I never use contractions when writing a
-grant, for instance. That's an incorrect decision in terms of style, but a
-correct decision in terms of appeasing extremists. In my field within CS, this
-rule is not, however, enforced by conference or journal reviewers, as evidenced
-by the fact that contractions regularly appear in conference and journal
-articles.
+grant application, for instance. That's an incorrect decision in terms of
+style, but a correct decision in terms of appeasing extremists. In my field
+within CS, this rule is not, however, enforced by conference or journal
+reviewers, as evidenced by the fact that contractions regularly appear in
+conference and journal articles.
 
 Incidentally, if you're going to claim that my own rule 2 suggests that you
 should avoid contractions because it's common to avoid contractions in formal
