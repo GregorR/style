@@ -41,8 +41,8 @@ Here are the “rules” of descriptivist writing, according to me:
    are still not *rules*. A good style guide should describe what is usual in
    English expression, not prescribe what is “correct”, and should change
    frequently to keep up with changing norms. If a style guide isn't on at
-   least its fifth edition, it is highly suspect. A style guide which is “set
-   in stone” is invalid.
+   least its fifth edition, it is highly suspect. A style guide that's “set in
+   stone” is invalid.
 
 3. **Clarity is king.** Writing is a form of communication, and the goal of
    most communication should be to convey meaning as clearly as possible.
@@ -87,7 +87,7 @@ Strunk and White, 80% of that book is really good, solid advice on writing. The
 problem is that the remaining 20% is so unrelated to good writing that it's
 maliciously bad advice, which hinders good writing instead of advancing it.
 
-Here are some commonly cited “rules” which specifically *ought to be broken*,
+Here are some commonly cited “rules” that specifically *ought to be broken*,
 because they actively hinder clarity for no reason:
 
 1. **~~Never write “s's”.~~** It's fine and correct to use “s's” so long as
@@ -106,8 +106,8 @@ because they actively hinder clarity for no reason:
    don't. Nowadays, “who” does. Note that I actually do use “whom” in most
    circumstances, so I'm a hypocrite.
 
-   “Whomever” is a revolting word which, like any other vulgarity, has no place
-   in polite speech or writing.
+   “Whomever” is a revolting word, and like any other vulgarity, it has no
+   place in polite speech or writing.
 
 3. **~~Less vs. fewer.~~** I have less than three eggs. I have fewer than three
    eggs. Use “fewer” if that's how you would have said it, but don't use it to

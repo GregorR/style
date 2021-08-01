@@ -62,12 +62,12 @@ etymology, and his justification for his disdain for contractions amounts to
 little more than sneering at the lower classes.
 
 How many proscriptions of contractions tell you not to use the word “none”? Not
-one of them. Hundreds of words in English are contractions which no one cares
-to ban: none, never, neither, altogether, already, albeit, also, always, and
-beware, to name nine which predate the advent of the apostrophe; ampersand,
-cosine, alright, smog, modem, codec, and pixel, to name seven which follow it.
+one of them. Hundreds of words in English are contractions that no one cares to
+ban: none, never, neither, altogether, already, albeit, also, always, and
+beware, to name nine that predate the advent of the apostrophe; ampersand,
+cosine, alright, smog, modem, codec, and pixel, to name seven that follow it.
 Proscriptions of contractions are ignorant of the very thing they proscribe,
-only banning contractions which happen to contain apostrophes. Even if we
+only banning contractions that happen to contain apostrophes. Even if we
 rewrite the rule as “don't use contractions that contain apostrophes”, there's
 a flaw in that proscription too, since the genitive (possessive) form, “ 's”,
 arose as a contraction as well. All apostrophes are contractions, and not all
@@ -78,7 +78,7 @@ ambiguity. The verb “have” typically indicates possession, but is also used 
 an auxiliary to introduce the past perfect, as in “I have gone” or, preferably,
 “I've gone”. Historically, the contraction was allowed to take either meaning,
 but in modern usage, it always indicates the auxiliary: “I've gone” is right,
-but “I've two brothers” is wrong. The ambiguity which can arise from these two
+but “I've two brothers” is wrong. The ambiguity that can arise from these two
 forms is actually *eliminated* by using the contraction, making the meaning
 clearer. The same is true of “will”, albeit the standard verb is rare: “I'll
 go” is right, but “I'll you to go” is meaningless. The same is also true of the
@@ -129,7 +129,7 @@ created for it. This is some of the more common ones.
 - **~~Contractions are from speech.~~** This argument is invalid for several
   reasons. First of all, it's irrelevant: English is not a logographic
   language, so writing is always based on speech, and there are many
-  contractions which undoubtedly arose in speech that we're happy to use in
+  contractions that undoubtedly arose in speech that we're happy to use in
   formal writing, such as “never” and “ampersand”. Second, [it's not even
   true](https://doi.org/10.2307/356528). While undoubtedly *some* contractions
   arose first in speech, contraction in writing (shorthand) has just as long a
