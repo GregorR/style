@@ -82,11 +82,10 @@ be broken.
 
 ## Non-Rules
 
-Lots of commonly cites “rules” are actually good, solid advice. For as much as
-I hate Strunk and White, 80% of that book is really good, solid advice on
-writing. The problem is that the remaining 20% is so unrelated to good writing
-that it's maliciously bad advice, which hinders good writing instead of
-advancing it.
+Lots of commonly cites “rules” are fine guidelines. For as much as I hate
+Strunk and White, 80% of that book is really good, solid advice on writing. The
+problem is that the remaining 20% is so unrelated to good writing that it's
+maliciously bad advice, which hinders good writing instead of advancing it.
 
 Here are some commonly cited “rules” which specifically *ought to be broken*,
 because they actively hinder clarity for no reason:
