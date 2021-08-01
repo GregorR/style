@@ -7,7 +7,11 @@
 I am a staunch linguistic descriptivist (or, if the above comic is to be
 believed, perhaps I should claim to be a pragmatist). As such, I am generally
 opposed to following style guides too precisely; they are to be used as guides,
-not rules.  Here are the “rules” of descriptivist writing, according to me:
+not rules.
+
+## My Descriptivist Rules
+
+Here are the “rules” of descriptivist writing, according to me:
 
 1. **Prescriptivists are bad people.** Common usage is the only valid arbiter
    of correct style. Do you have a copy of Strunk and White's *Elements of
@@ -75,8 +79,17 @@ Punctuation belongs outside the quotation marks unless the punctuation is
 actually part of the quote. But, that's just my own rule, and rules are made to
 be broken.
 
-Some commonly cited “rules” which specifically *ought to be broken*, because
-they actively hinder clarity for no reason:
+
+## Non-Rules
+
+Lots of commonly cites “rules” are actually good, solid advice. For as much as
+I hate Strunk and White, 80% of that book is really good, solid advice on
+writing. The problem is that the remaining 20% is so unrelated to good writing
+that it's maliciously bad advice, which hinders good writing instead of
+advancing it.
+
+Here are some commonly cited “rules” which specifically *ought to be broken*,
+because they actively hinder clarity for no reason:
 
 1. **~~Never write “s's”.~~** It's fine and correct to use “s's” so long as
    that is how you would say it, such as “Charles's friend”. When not
@@ -138,6 +151,8 @@ they actively hinder clarity for no reason:
    If you're unconvinced, I explain in much greater depth in [a separate
    document](CONTRACTIONS.md).
 
+
+## Academic Writing
 
 Some general guidelines (not rules!) for academic writing in Computer Science,
 with some bias towards programming languages since that is my field:
