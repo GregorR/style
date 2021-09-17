@@ -3,8 +3,8 @@
 Hyphens are one of the most confusing parts of English grammar, and misuse of
 hyphens is rampant. Of course, clarity is king, so ultimately, if a hyphen or
 absence of a hyphen makes something clearer, that is the correct use of a
-hyphen. However, hyphens exist to aid ambiguity, and thus to aid in parsing, so
-it's important to use them thoughtfully.
+hyphen. However, hyphens exist to resolve ambiguity, and thus to aid in
+parsing, so it's important to use them thoughtfully.
 
 I won't provide an actual guide on using hyphens here. If you want one, I
 highly recommend the Chicago Manual of Style, which enumerates every case in
