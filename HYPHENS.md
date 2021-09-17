@@ -158,3 +158,6 @@ because “run-time” does not have that meaning.
 Morphological hyphens (and their eventual unhyphenated forms) form new words,
 and so can drift in meaning; punctuation hyphens are just punctuation, and so
 cannot.
+
+
+([Return to the main document](STYLE.md))
