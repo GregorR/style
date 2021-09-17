@@ -217,3 +217,7 @@ with some bias towards programming languages since that is my field:
    than writing style, but sometimes they do a bit of both. If you're
    submitting to a publisher with a specifically mandated style guide,
    obviously you should follow it. Don't break the rules just to be a rebel.
+
+## Miscellany
+
+I additionally have [a document describing how hyphens work](HYPHENS.md).
