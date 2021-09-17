@@ -68,7 +68,9 @@ the phrase “wild life”. This style of word formation has largely been
 abandoned; in modern English, we're happy to skip the hyphenated phase
 entirely, and invent conjoined words directly from their antecedent parts.
 Some ad hoc hyphens remain in modern English. Use an ad hoc hyphen if it
-appears in the dictionary.
+appears in the dictionary. Such compounds arise with the same meaning as their
+expanded form (or at least one of those meanings), but because these are new
+words, their meaning can drift.
 
 Ad hoc hyphens are not the only form of morphological hyphens. Hyphens are also
 used to join standard stems to words, such as “co-opt”. This use continues to
@@ -99,8 +101,9 @@ in works in programming languages, by analogy to “runtime”, and many authors
 “compile-time”. Since “compile-time” is a word (uses a morphological hyphen),
 “at compile-time” is correct.
 
-In addition, verb phrases are often conjoined into *nouns* using morphological
-hyphens. This phenomenon will be discussed later.
+In addition, verb phrases, and sometimes even full sentences, are often
+conjoined into *nouns* using morphological hyphens, which I'll class as
+transformative hyphens. This phenomenon will be discussed later.
 
 ## Punctuation Hyphen
 
@@ -141,12 +144,21 @@ a compound descriptor, then the hyphen is incorrect: “tasks run in real time�
 ## Other Adjoined Word Misuse
 
 Verb phrases are almost never compounded into a single verb, but frequently
-compounded into a single *noun*. This noun usually goes through the same phases
-of synthesis as any other morphological hyphens: first they are hyphenated,
-then they become one word. It is very common to misuse the words “login”
-(“log-in”), “signin” (“sign-in”), and their converses (“logoff” and “signoff”).
-These words are *nouns*, not verbs. “Log in using your login” is correct (if
-tautological). “Login using your log in” is incorrect in both uses.
+compounded into a single *noun*. Because these transformative hyphens transform
+verb phrases into nouns, the meaning is not the same, but is usually adjacent.
+This noun usually goes through the same phases of synthesis as any other
+morphological hyphen: first they are hyphenated, then they become one word. It
+is very common to misuse the words “login” (“log-in”), “signin” (“sign-in”),
+and their converses (“logoff” and “signoff”). These words are *nouns*, not
+verbs. “Log in using your login” is correct (if tautological). “Login using
+your log in” is incorrect in both uses.
+
+Whole sentences are sometimes compounded as well, usually to describe a
+communiqué that includes the sentence, for instance “thank-yous” or
+“I-regret-to-inform-yous”. Like the verb form, these transformative hyphens do
+not have the same meaning as their unhyphenated forms: “thank you” is a
+sentence one uses to thank another; “thank-you” is a noun referring to the
+communication of thanks.
 
 Similarly, words that have been formed by ad hoc hyphens have a more
 restrictive meaning than their unhyphenated forms. “Run-time” (“runtime”) is a
