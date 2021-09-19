@@ -67,10 +67,12 @@ as “wildlife” arose through the ad hoc invention of the word “wild-life”
 the phrase “wild life”. This style of word formation has largely been
 abandoned; in modern English, we're happy to skip the hyphenated phase
 entirely, and invent conjoined words directly from their antecedent parts.
-Some ad hoc hyphens remain in modern English. Use an ad hoc hyphen if it
-appears in the dictionary. Such compounds arise with the same meaning as their
-expanded form (or at least one of those meanings), but because these are new
-words, their meaning can drift.
+Such compounds arise with the same meaning as their expanded form (or at least
+one of those meanings), but because these are new words, their meaning can
+drift.
+
+Some historical ad hoc hyphens remain in modern English. Use an ad hoc hyphen if it
+appears in the dictionary.
 
 Ad hoc hyphens are not the only form of morphological hyphens. Hyphens are also
 used to join standard stems to words, such as “co-opt”. This use continues to
@@ -166,10 +168,6 @@ part of a computing system, not a duration of time. It can refer to the
 *period* of time during which that part of the system is in operation, but not
 the *duration* of that time. “The run-time was five seconds” is incorrect,
 because “run-time” does not have that meaning.
-
-Morphological hyphens (and their eventual unhyphenated forms) form new words,
-and so can drift in meaning; punctuation hyphens are just punctuation, and so
-cannot.
 
 
 ([Return to the main document](STYLE.md))
