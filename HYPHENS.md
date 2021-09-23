@@ -130,6 +130,18 @@ adjective describes the new concept created by the pairing of these two nouns,
 then it is *sometimes* acceptable to hyphenate the nouns to emphasize this, but
 not standard.
 
+A phrase of the form **adverb adjective noun** can sometimes be ambiguous, if
+the adverb is written the same as an adjective. The most common example is
+“well”. Thus, an adverb is hyphenated to an adjective coming before a noun if
+the adverb could instead be interpreted as an adjective. Consider “well-liked
+person” versus “well liked person”. The former means a person who is liked by
+many; the latter means a person who is liked and is not ill. The same case can,
+in theory, arise with other word-type ambiguities, but they're rare. The
+Chicago Manual of Style describes this case as including the hyphen if the
+descriptor doesn't end in -ly, but “doesn't end in -ly” accounts for most
+adverb-adjective ambiguities, so this is simply a pragmatic description of the
+same phenomenon.
+
 Hyphens are often elided when the ambiguity they would resolve in word pairing
 doesn't actually change the meaning of the phrase. For instance, “operating
 system kernel” could be written as “operating-system kernel” to clarify that
@@ -146,14 +158,22 @@ a compound descriptor, then the hyphen is incorrect: “tasks run in real time�
 ## Other Adjoined Word Misuse
 
 Verb phrases are almost never compounded into a single verb, but frequently
-compounded into a single *noun*. Because these transformative hyphens transform
-verb phrases into nouns, the meaning is not the same, but is usually adjacent.
-This noun usually goes through the same phases of synthesis as any other
-morphological hyphen: first they are hyphenated, then they become one word. It
-is very common to misuse the words “login” (“log-in”), “signin” (“sign-in”),
-and their converses (“logoff” and “signoff”). These words are *nouns*, not
-verbs. “Log in using your login” is correct (if tautological). “Login using
-your log in” is incorrect in both uses.
+compounded into a single *noun*, and sometimes compounded into a single
+*adjective*. Because these transformative hyphens transform verb phrases into
+non-verbs, the meaning is not the same, but is usually adjacent.
+
+A transformative-hyphen noun usually goes through the same phases of synthesis
+as any other word with a morphological hyphen: first they are hyphenated, then
+they become one word. It is very common to misuse the words “login” (“log-in”),
+“signin” (“sign-in”), and their converses (“logoff” and “signoff”). These words
+are *nouns*, not verbs. “Log in using your login” is correct (if tautological).
+“Login using your log in” is incorrect in both uses.
+
+There are some examples of transformative hyphens used to form adjectives, as
+well, such as “go-to”. “Go to the store and buy my go-to snack” is correct;
+“go-to the store and buy my go to snack” is wrong in both cases. Because this
+is a morphological hyphen, and so “go-to” is a word, “that snack is my go to”
+is wrong.
 
 Whole sentences are sometimes compounded as well, usually to describe a
 communiqué that includes the sentence, for instance “thank-yous” or
@@ -168,6 +188,17 @@ part of a computing system, not a duration of time. It can refer to the
 *period* of time during which that part of the system is in operation, but not
 the *duration* of that time. “The run-time was five seconds” is incorrect,
 because “run-time” does not have that meaning.
+
+
+## Exceptions
+
+This document describes the *logic* behind hyphens. But, grammar is formed by
+an evolutionary process, and evolutionary processes never create perfectly
+consistent systems. If you follow the logic of determining punctuation hyphens
+and morphological hyphens, you will usually hyphenate in a consistent and
+understandable way, but the only way to learn all special cases and exceptions
+to the rules is to read a style guide's documentation on hyphens. Again, I
+recommend the Chicago Manual of Style.
 
 
 ([Return to the main document](STYLE.md))
